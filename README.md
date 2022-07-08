@@ -1,6 +1,6 @@
 # Hi there 👋🏼
 
-My name is Joel and I'm a backend engineer and love using Ruby on Rails.
+My name is Joel and I'm a backend engineer and love developing apps with Ruby on Rails.
 
 I'm always open to networking and can be reached on LinkedIn or at joelgrantdev@gmail.com.
 
