@@ -2,9 +2,11 @@
 
 My name is Joel and I'm a backend engineer and love developing apps with Ruby on Rails.
 
-I'm always open to networking and can be reached on LinkedIn or at joelgrantdev@gmail.com.
+I'm always open to networking with people in the dev community and can be reached on LinkedIn or at joelgrantdev@gmail.com.
 
 Thanks for visiting!
+
+(Também falo português! 🇧🇷 )
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/joelmgrant/)
 
@@ -18,3 +20,4 @@ Thanks for visiting!
 <img src="https://img.shields.io/badge/-RSpec-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-SimpleCov-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Shoulda%20Matchers-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Capybara-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Factorybot-CC0000?&style=for-the-badge"/> 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joel-grant&count_private=true&theme=tokyonight&showicons=true)]()
+
