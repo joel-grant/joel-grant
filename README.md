@@ -18,6 +18,3 @@ Thanks for visiting!
 <img src="https://img.shields.io/badge/-RSpec-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-SimpleCov-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Shoulda%20Matchers-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Capybara-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Factorybot-CC0000?&style=for-the-badge"/> 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joel-grant&count_private=true&theme=tokyonight&showicons=true)]()
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-grant&langs_count=5&theme=tokyonight)]()
