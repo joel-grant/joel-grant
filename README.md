@@ -19,8 +19,9 @@ Thanks for visiting!
 ### Testing
 <img src="https://img.shields.io/badge/-RSpec-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-SimpleCov-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Shoulda%20Matchers-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Capybara-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Factorybot-CC0000?&style=for-the-badge"/> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-grant&hide=css&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-grant&layout=compact&theme=tokyonight"/>
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joel-grant&count_private=true&theme=tokyonight&showicons=true)]()
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-grant&layout=compact"/>
+
