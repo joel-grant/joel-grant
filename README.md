@@ -22,6 +22,6 @@ Thanks for visiting!
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-grant&layout=compact&theme=tokyonight"/>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joel-grant&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joel-grant&count_private=true&theme=tokyonight&showicons=true)]() -->
 
 
