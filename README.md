@@ -1,7 +1,7 @@
 
 Hi there! 👋🏼
 
-I'm Joel and I'm a software engineer with strong experience in Ruby on Rails, Java, and PaaS (Platform as a Service) development.  I'm passionate about creating software that delivers an excellent, and considerate user experience.  Many of the projects that I use to learn and refine development skills can be found here on my GitHub.  Feel free to reach out and/or follow!
+I'm Joel and I'm a software engineer with experience in Ruby on Rails, Java, and IaaS (Infrastructure as a Service) development.  I'm passionate about creating software that delivers considerate user experiences.  Many of the projects that I use to learn and refine development skills can be found here on my GitHub.  Feel free to reach out and/or follow!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/joelmgrant/)
 
@@ -15,13 +15,13 @@ I'm Joel and I'm a software engineer with strong experience in Ruby on Rails, Ja
 
 #### Platform Development and DevOps Experience
 - Terraform
-- AWS (EKS, EC2, Cassandra)
+- Helm
+- AWS
 - Kubernetes
 - Service Meshes (Istio)
 - Ansible
 - DataDog
-- Linux
-- Helm
+- GitLab
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-grant&layout=compact&theme=tokyonight"/>
