@@ -13,7 +13,7 @@ I'm Joel and I'm a software engineer with experience in Ruby on Rails, Java, and
 - Postman
 - RSpec
 
-#### Platform Development and DevOps Experience
+#### Platform Development
 - Terraform
 - Helm
 - AWS
