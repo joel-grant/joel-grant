@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>👋🏼 Hi there, I'm Joel!</h1>
   <h3>Backend Developer & Platform Engineer</h3>
@@ -7,7 +6,9 @@
     <a href="https://www.linkedin.com/in/joelmgrant/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=joel-grant&style=for-the-badge&color=blueviolet" alt="Profile Views">
+    <a href="https://joelgrant.dev">
+      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    </a>
   </p>
 </div>
 
@@ -75,7 +76,17 @@ I love taking **complex, repeatable tasks and breaking them down into simple, au
 
 ---
 
-## 📈 GitHub Stats
+## � What I'm Working On
+
+<div align="center">
+  <a href="https://joelgrant.dev/projects">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=joelgrant.dev%2Fprojects" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+## �📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-grant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -83,6 +94,14 @@ I love taking **complex, repeatable tasks and breaking them down into simple, au
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-grant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## ⚡ Recent Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joel-grant&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
