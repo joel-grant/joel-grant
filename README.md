@@ -21,11 +21,14 @@ I'm a **backend developer** who specializes in building robust server-side appli
 I love taking **complex, repeatable tasks and breaking them down into simple, automated steps** - whether that's streamlining deployment processes, optimizing database operations, or creating developer-friendly tooling that makes everyone's job easier.
 
 ### 🎯 What I Do:
-- � **Backend Development**: Building robust APIs and services with Ruby on Rails & Java
+- 🔧 **Backend Development**: Building robust APIs and services with Ruby on Rails & Java
 - ☁️ **Platform Engineering**: Designing and implementing scalable infrastructure using IaC
-- � **DevOps & CI/CD**: Creating efficient pipelines in GitHub Actions and GitLab CI
+- 🚀 **DevOps & CI/CD**: Creating efficient pipelines in GitHub Actions and GitLab CI
 - 🏗️ **Infrastructure as Code**: Automating cloud deployments with Terraform and Kubernetes
 - 🌱 **Always Learning**: Open to exploring new backend technologies and frameworks
+- 🥕 **Vegetable Gardening**: Growing my own food and applying the same patience I use for nurturing code
+- 🎢 **Theme Park Enthusiast**: Exploring parks and appreciating the engineering behind the thrills
+- ✈️ **Travel Lover**: Discovering new places and cultures around the world
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -119,10 +122,6 @@ I'm always interested in discussing:
   <a href="https://www.linkedin.com/in/joelmgrant/">
     <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
