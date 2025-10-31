@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **backend developer** who specializes in building robust server-side applications and scalable development platforms. I'm passionate about creating **reliable APIs and services** using Ruby on Rails and Java, while also designing the infrastructure that enables teams to deploy and scale their applications efficiently.
+I'm a **backend developer** who enjoys building robust server-side applications and scalable development platforms. I'm passionate about creating **reliable APIs and services** using Ruby on Rails and Java, while also designing the infrastructure that enables teams to deploy and scale their applications efficiently.
 
 I love taking **complex, repeatable tasks and breaking them down into simple, automated steps** - whether that's streamlining deployment processes, optimizing database operations, or creating developer-friendly tooling that makes everyone's job easier.
 
