@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋🏼 Hi there, I'm Joel!</h1>
-  <h3>Backend Developer & Platform Engineer</h3>
+  <h3>Backend Software Engineer</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/joelmgrant/">
