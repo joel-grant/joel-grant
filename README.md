@@ -21,10 +21,8 @@ I'm a **backend developer** who enjoys building robust server-side applications 
 I love taking **complex, repeatable tasks and breaking them down into simple, automated steps** - whether that's streamlining deployment processes, optimizing database operations, or creating developer-friendly tooling that makes everyone's job easier.
 
 ### 🎯 What I Do:
-- 🔧 **Backend Development**: Building robust APIs and services with Ruby on Rails & Java
-- ☁️ **Platform Engineering**: Designing and implementing scalable infrastructure using IaC
-- 🚀 **DevOps & CI/CD**: Creating efficient pipelines in GitHub Actions and GitLab CI
-- 🏗️ **Infrastructure as Code**: Automating cloud deployments with Terraform and Kubernetes
+- 🔧 **Backend Development**: Building APIs and backend services with Ruby on Rails & Java
+- ☁️ **Infrastructure Engineering**: Designing and implementing scalable infrastructure using "IaC" (Infratructure as Code)
 - 🌱 **Always Learning**: Open to exploring new backend technologies and frameworks
 - 🥕 **Vegetable Gardening**: Growing my own food and applying the same patience I use for nurturing code
 - 🎢 **Theme Park Enthusiast**: Exploring parks and appreciating the engineering behind the thrills
@@ -36,50 +34,7 @@ I love taking **complex, repeatable tasks and breaking them down into simple, au
 
 ---
 
-## 🛠️ Technology Stack
-
-<details>
-<summary><strong>💻 Backend Development</strong></summary>
-<br>
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**API Development & Testing:**
-- RESTful API design and development
-- RSpec for Ruby testing
-- Postman for API development and testing
-- Database design and optimization
-
-</details>
-
-<details>
-<summary><strong>☁️ Platform Engineering & DevOps</strong></summary>
-<br>
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-
-**Service Mesh & Infrastructure:**
-- Istio for service mesh architecture
-- Infrastructure automation and monitoring
-
-</details>
-
----
-
-## � What I'm Working On
+## What I'm Working On
 
 <div align="center">
   <a href="https://joelgrant.dev/projects">
@@ -89,11 +44,7 @@ I love taking **complex, repeatable tasks and breaking them down into simple, au
 
 ---
 
-## �📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-grant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-grant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -101,22 +52,14 @@ I love taking **complex, repeatable tasks and breaking them down into simple, au
 
 ---
 
-## ⚡ Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joel-grant&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in discussing:
-- � **Building Rails Applications** and Ruby development best practices
-- 🔧 **DevOps** and infrastructure automation
-- 🌱 **Gardening** and growing things (both plants and code!)
-- 🎢 **Theme Parks** and roller coaster adventures
-- ✈️ **Travel** and exploring new places around the world
+- **Building Rails Applications** and Ruby development best practices
+- **DevOps** and infrastructure automation
+- **Gardening** and growing things (both plants and code!)
+- **Theme Parks** and roller coaster adventures
+- **Travel** and exploring new places around the world
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joelmgrant/">
