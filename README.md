@@ -54,12 +54,6 @@ I love taking **complex, repeatable tasks and breaking them down into simple, au
 
 ## 🤝 Let's Connect!
 
-I'm always interested in discussing:
-- **Building Rails Applications** and Ruby development best practices
-- **DevOps** and infrastructure automation
-- **Gardening** and growing things (both plants and code!)
-- **Theme Parks** and roller coaster adventures
-- **Travel** and exploring new places around the world
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joelmgrant/">
